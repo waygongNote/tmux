@@ -1,5 +1,9 @@
 tmux
 ====
+guide (good)
+
+	# http://blog.roodo.com/dabinn/archives/19994974.html
+
 someone says that "tmux" is better than "screen" (both are linux softwares).
 
 	# sudo apt-get install tmux
